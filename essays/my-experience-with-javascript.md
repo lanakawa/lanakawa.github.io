@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Experience with JavaScript
+title: My Experience with JavaScript
 date: 2020-09-03
 labels:
   - JavaScript
