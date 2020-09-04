@@ -9,7 +9,8 @@ labels:
 	-Learning
 ---
 
-	My coding journey only dates back to about a year ago when I declared my major in computer science, so I am still new to the topic of programming. I do not 
+	
+My coding journey only dates back to about a year ago when I declared my major in computer science, so I am still new to the topic of programming. I do not 
 have a lot of experience with coding and have only used Java to code. With that said, JavaScript has some similarities with Java but many more differences. With 
 what I have learned through JavaScript modules, JavaScript has similar syntaxes to Java, but its rules are laxer, with many shortcuts and shorthand. JavaScript 
 doesn’t require you to make a class to create objects to run the program unlike Java. JavaScript also does not have static type checking so you are able to mismatch 
