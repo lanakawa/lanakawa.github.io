@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/space-square.png
 title: Space shooter game
 permalink: projects/space-shooter-game
 date: 2019-05-15
