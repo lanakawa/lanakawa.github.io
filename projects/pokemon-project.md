@@ -11,9 +11,9 @@ labels:
 summary: A pokemon inspired game my group developed in ICS 211.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/pokemon-game.png">
-  <img class="ui image" src="../images/pokemon-stats.png">
+<div class="row">
+  <img class="column" src="../images/pokemon-game.png" >
+  <img class="column" src="../images/pokemon-stats.png">
 </div>
 
 This is a Pokemon imspired application that I helped create with my group in ICS 212 in Spring 2020. This project helped me learn how to create and implement GUIs. 
