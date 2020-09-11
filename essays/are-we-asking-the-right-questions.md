@@ -10,7 +10,6 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
 
 When I was younger, I often looked for the "easiest" or most "efficent" way to solve my problems. Whenever I picked up a new hobby or skill, I never took the time to the the mechanics or techniques that came with them. I would learn on my own and when ran into a problem, I would frantically search the web for a solution; "What can I do to get my program to work?" or "why aren't the scenes in my animation program working as expected?" I would click through countless pages until I could find a soultion that matched my problem, skim the text until I found a straighforward solution, then implement it. I would repeat this process until I had "learned" enough to perform the basics of my new vventure and I would be satisfied. 
 
