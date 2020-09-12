@@ -11,7 +11,7 @@ labels:
 summary: A pokemon inspired game my group developed in ICS 211.
 ---
 
-<iimg class="ui medium right floated rounded image" src="../images/pokemon-game.png" width="383" height="462" >  
+<img class="ui medium right floated rounded image" src="../images/pokemon-game.png" width="383" height="462" >  
 
 
 This is a Pokemon imspired application that I helped create with my group in ICS 211 in Spring 2020. This project helped me learn how to create and implement GUIs and utilized the data structures that we learned previously. My role in this project was to create the GUI using Java JFrames and JPanels while helping my team members with the Stack and PriorityQueue used to store the caught Pokemon.  
