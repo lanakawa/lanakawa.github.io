@@ -12,7 +12,7 @@ summary: A pokemon inspired game my group developed in ICS 211.
 ---
 
 <div class="row">
-  <img class="column" src="../images/pokemon-game.png" >
+  <img class="column" src="../images/pokemon-game.png" width="383" height="462" >
   <img class="column" src="../images/pokemon-stats.png">
 </div>
 
