@@ -34,22 +34,24 @@
   },
   "interests": [
     {
-      "name": "games",
+      "name": "Video Games",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "animation",
+      "name": "Animation",
       "keywords": [
         "2-D animation",
         "Computer animation"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Art",
       "keywords": [
+        "Traditional Art",
+        "Digital Art"
       ]
     }
   ],
