@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+published: true
+title: My Experience with JavaScript
+date: 2020-09-03
+labels:
+  - JavaScript
+  - Learning
+---
+
 Importance of Coding Standards 
 
 One of the most helpful concepts I learned while coding were coding standards. It is the foundation for creating easy to read, uniform code. It is due to coding standards that finished (professional) projects often look as if one person worked on it. It also reduces security risk as there is less room for bugs and inconsistencies and reduces performance issues by ensuring the reusability of the code and more.
