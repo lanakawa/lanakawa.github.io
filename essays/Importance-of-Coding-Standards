@@ -14,13 +14,13 @@ One of the most helpful concepts I learned while coding were coding standards. I
 
 Coding standards have many benefits such as higher efficiency when working on the code. Developers can more easily detect problems in code as it is easier to read and follow and can therefore fix or prevent them from happening. It also ensures that developers are using the most efficient way to code, for example, 
 
-
+```
 $my_array[] = "element";
-
+```
   is more efficient and easier to read than 
-
+```
 array_push($my_array, "element");
-
+```
 
 
 As I was familiarizing myself with IntelliJ, I had implemented a plugin called ESLint that marks and corrects any coding style errors in the JavaScipt file. I found myself getting several red checks in my code, all marking the mistakes I made followed with suggestions on how to fix them. While it is disheartening to see so many errors on code that runs perfectly fine, after correcting them I realized how much more readable my program became (and the satisfying feeling of clearing the errors in priceless!).  I realize that the more I work with ESLint and continue to get these checks, the more I will implement proper coding standards and make habit of writing code that follows these guidelines.
