@@ -1,20 +1,31 @@
 ---
 layout: essay
 type: essay
-title: Are we asking the right questions?
+title: Importance of Coding Standards
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-10
+date: 2020-09-24
 labels:
   - Questions
   - Answers
-  - StackOverflow
+  - Coding Standards
 ---
 
 
-When I was younger, I often looked for the "easiest" or most "efficient" way to solve my problems. Whenever I picked up a new hobby or skill, I never took the time to the mechanics or techniques that came with them. I would learn on my own and when ran into a problem, I would frantically search the web for a solution; "What can I do to get my program to work?" or "why aren't the scenes in my animation program working as expected?" I would click through countless pages until I could find a solution that matched my problem, skim the text until I found a straightforward solution, then implement it. I would repeat this process until I had "learned" enough to perform the basics of my new venture and I would be satisfied. 
+One of the most helpful concepts I learned while coding were coding standards. It is the foundation for creating easy to read, uniform code. It is due to coding standards that finished (professional) projects often look as if one person worked on it. It also reduces security risk as there is less room for bugs and inconsistencies and reduces performance issues by ensuring the reusability of the code and more.
 
-This bad habit stretched well into the beginning of my programming career. Like many others, I would search and post simple questions into various forums hoping to get a direct answer. There would be questions on StackOverflow that were similar to mine but were met with indirect solutions or passive aggressive comments. Many saying that the asker needs to think for themselves or that they shouldn't post their questions because they are too simple. I would be confused and offended because I had these same questions and I believed they were perfectly valid! After a while I realized that these commenters were probably tired of people like me trying to find the easy way out and not thinking for themselves. I was limiting my scope of knowledge by taking the straightforward route and therefore I could never perform more complicated tasks because I didn't truly understand what I was doing.
+Coding standards have many benefits such as higher efficiency when working on the code. Developers can more easily detect problems in code as it is easier to read and follow and can therefore fix or prevent them from happening. It also ensures that developers are using the most efficient way to code, for example, 
 
-Those on forums appreciate it when the user asking the question are concise and specific about their problem and have proved that they have made an effort to solve the problem. In these cases, they are more likely to help the user without the insults or passive aggressive-ness. Here is an example of a well written question: [StackOverflow](https://stackoverflow.com/questions/63261379/cortex-m4-ldr-str-timing). The user is clearly having problems with Cortex M4 LDR/STR timing as is stated in the topic title. He then states that he is trying to find a solution in the Cortex M4 TRM but does understand the text, which he includes in a readable format. The community took well to his question and gave him detailed explanations of the text and reiterated some sections for him to make it easier to understand.
+```
+$my_array[] = "element";
+```
+  is more efficient and easier to read than 
+```
+array_push($my_array, "element");
+```
 
-On the other hand, here is an example of a poorly written question: [StackOverflow](https://stackoverflow.com/questions/63841541/optimizing-the-loading-process-of-imap-in-connection-with-php-and-databases). In this example, the user did have a satisfactory title, "Optimizing the loading process of IMAP in connection with PHP and databases," which states what the user is trying to achieve, but the problems lie within the content of the post. He is using language that seems stuck up, "the loading times are very modest. With a mailbox with 1800 mails, even the loading process breaks down." It puts users off as it seems like the poster has an attitude 
+
+As I was familiarizing myself with IntelliJ, I had implemented a plugin called ESLint that marks and corrects any coding style errors in the JavaScipt file. I found myself getting several red checks in my code, all marking the mistakes I made followed with suggestions on how to fix them. While it is disheartening to see so many errors on code that runs perfectly fine, after correcting them I realized how much more readable my program became (and the satisfying feeling of clearing the errors in priceless!).  I realize that the more I work with ESLint and continue to get these checks, the more I will implement proper coding standards and make habit of writing code that follows these guidelines.
+
+Coding standards are necessary in development to reduce security and performance risks but also have advantages that make life easier for the developer too. There are all around beneficial and worth the headache to make habit of for a lifetime of ease. 
+
+
