@@ -55,22 +55,47 @@
       ]
     }
   ],
-  "skills": [
+  "technical skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
+        "C+",
+        "C#",
         "Java",
         "Javascript",
-        "Graphic Design"
+        "HTML",
+        "Python",
+        "Graphic Design",
+      ]
+    },
+    {
+      "name": "Operating systems",
+      "level": "",
+      "keywords": [
+        "Mac (Sierra, El Capitan)",
+        "Windows (10, 7)",
+        "Linux (BASH)"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "IntelliJ,",
+        "Eclipse",
+        "Microsoft Development Tool",
+        "Meteor",
+        "MongoDB Shell",
+        "React"
       ]
     },
     {
       "name": "Arts and Design",
       "level": "",
       "keywords": [
-        "Computer animation",
+        "IntelliJ",
         "Grapic Design",
         "Traditional Art",
         "Digital Art"
@@ -105,10 +130,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
