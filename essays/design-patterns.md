@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks
+title: Convinence of design patterns
 date: 2020-09-04
 labels:
   - Engineering
