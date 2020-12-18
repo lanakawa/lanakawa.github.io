@@ -1,4 +1,17 @@
-Lessons in my Journey
+---
+layout: essay
+type: essay
+published: true
+title: Lessons in my Journey
+date: 2020-12-17
+labels:
+  - Software Engineering
+  - Learning
+  - UI Frameworks
+  - Configuration Management
+---
+
+## Lessons in my Journey
 
 Now that my college semester’s coming to a close, it’s time to reflect on what I’ve learned, or improved on so far. I’ve learned many valuable concepts and topics in my Software Engineering course and although we mainly applied it to web application development, they can be used in any form of software development.
 
