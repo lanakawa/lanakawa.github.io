@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: My Experience with JavaScript
 date: 2020-09-03
 labels:
