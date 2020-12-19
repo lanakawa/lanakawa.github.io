@@ -65,7 +65,7 @@
         "Javascript",
         "HTML",
         "Python",
-        "Graphic Design",
+        "Graphic Design"
       ]
     },
     {
@@ -73,7 +73,7 @@
       "keywords": [
         "Mac (Sierra, El Capitan)",
         "Windows (10, 7)",
-        "Linux (BASH)",
+        "Linux (BASH)"
       ]
     },
     {
@@ -85,7 +85,7 @@
         "Microsoft Development Tool",
         "Meteor",
         "MongoDB Shell",
-        "React",
+        "React"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "keywords": [
         "Grapic Design",
         "Traditional Art",
-        "Digital Art",
+        "Digital Art"
       ]
     }
   ],
