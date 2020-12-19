@@ -58,7 +58,6 @@
   "technical skills": [
     {
       "name": "Programming Languages",
-      "level": "",
       "keywords": [
         "C",
         "C+",
@@ -71,7 +70,6 @@
     },
     {
       "name": "Operating systems",
-      "level": "",
       "keywords": [
         "Mac (Sierra, El Capitan)",
         "Windows (10, 7)",
@@ -80,7 +78,6 @@
     },
     {
       "name": "Software",
-      "level": "",
       "keywords": [
         "MySQL",
         "IntelliJ",
@@ -93,7 +90,6 @@
     },
     {
       "name": "Arts and Design",
-      "level": "",
       "keywords": [
         "Grapic Design",
         "Traditional Art",
