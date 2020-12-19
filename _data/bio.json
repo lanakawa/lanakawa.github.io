@@ -6,7 +6,7 @@
     "email": "lanakawa@hawaii.edu",
     "phone": "808-385-1028",
     "website": "https://lanakawa.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -36,8 +36,8 @@
     {
       "name": "Video Games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Developing",
+        "Playing"
       ]
     },
     {
@@ -57,12 +57,11 @@
   ],
   "technical skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
         "C+",
-        "C#",
         "Java",
         "Javascript",
         "HTML",
@@ -83,7 +82,8 @@
       "name": "Software",
       "level": "",
       "keywords": [
-        "IntelliJ,",
+        "MySQL",
+        "IntelliJ",
         "Eclipse",
         "Microsoft Development Tool",
         "Meteor",
@@ -94,8 +94,7 @@
     {
       "name": "Arts and Design",
       "level": "",
-      "keywords": [
-        "IntelliJ",
+      "keywords": 
         "Grapic Design",
         "Traditional Art",
         "Digital Art"
