@@ -44,14 +44,14 @@
       "name": "Animation",
       "keywords": [
         "2-D animation",
-        "Computer animation"
+        "Computer animation",
       ]
     },
     {
       "name": "Art",
       "keywords": [
         "Traditional Art",
-        "Digital Art"
+        "Digital Art",
       ]
     }
   ],
@@ -75,7 +75,7 @@
       "keywords": [
         "Mac (Sierra, El Capitan)",
         "Windows (10, 7)",
-        "Linux (BASH)"
+        "Linux (BASH)",
       ]
     },
     {
@@ -88,7 +88,7 @@
         "Microsoft Development Tool",
         "Meteor",
         "MongoDB Shell",
-        "React"
+        "React",
       ]
     },
     {
@@ -97,7 +97,7 @@
       "keywords": 
         "Grapic Design",
         "Traditional Art",
-        "Digital Art"
+        "Digital Art",
       ]
     }
   ],
@@ -111,7 +111,7 @@
         "ICS 212",
         "ICS 311",
         "ICS 314",
-        "ART 241"
+        "ART 241",
       ]
     }
   ],
