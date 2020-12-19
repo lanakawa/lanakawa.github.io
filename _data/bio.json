@@ -55,9 +55,10 @@
       ]
     }
   ],
-  "technical skills": [
+  "skills": [
     {
       "name": "Programming Languages",
+      "level": "",
       "keywords": [
         "C",
         "C+",
@@ -70,30 +71,11 @@
     },
     {
       "name": "Operating systems",
+      "level": "",
       "keywords": [
         "Mac (Sierra, El Capitan)",
         "Windows (10, 7)",
         "Linux (BASH)"
-      ]
-    },
-    {
-      "name": "Software",
-      "keywords": [
-        "MySQL",
-        "IntelliJ",
-        "Eclipse",
-        "Microsoft Development Tool",
-        "Meteor",
-        "MongoDB Shell",
-        "React"
-      ]
-    },
-    {
-      "name": "Arts and Design",
-      "keywords": [
-        "Grapic Design",
-        "Traditional Art",
-        "Digital Art"
       ]
     }
   ],
