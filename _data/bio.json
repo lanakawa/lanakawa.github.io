@@ -77,6 +77,28 @@
         "Windows (10, 7)",
         "Linux (BASH)"
       ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "IntelliJ",
+        "Eclipse",
+        "Microsoft Development Tool",
+        "Meteor",
+        "MongoDB Shell",
+        "React",
+      ]
+    },
+    {
+      "name": "Arts and Design",
+      "level": "",
+      "keywords": [
+        "Grapic Design",
+        "Traditional Art",
+        "Digital Art",
+      ]
     }
   ],
   "education": [
