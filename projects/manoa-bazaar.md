@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.jpeg
+image: images/Landing.jpeg
 title: Manoa Bazaar
 permalink: projects/manoa-bazaar
 date: 2020-12-16
