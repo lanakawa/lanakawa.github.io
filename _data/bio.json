@@ -53,7 +53,14 @@
         "Traditional Art",
         "Digital Art",
       ]
-    }
+    },
+    {
+      "name": "Developing Software",
+      "keywords": [
+        "Phone apps",
+        "Video Games"
+      ]
+    },
   ],
   "skills": [
     {
